@@ -1,0 +1,43 @@
+### Country Statistics ###
+United States:  39.38%
+France:  8.65%
+Germany:  5.72%
+Sweden:  4.25%
+India:  4.23%
+China:  4.17%
+United Kingdom:  3.18%
+Spain:  2.22%
+Russia:  2.03%
+Canada:  1.96%
+Poland:  1.49%
+Australia:  1.39%
+Brazil:  1.28%
+Italy:  1.25%
+The Netherlands:  1.12%
+Serbia:  1.10%
+Other:  16.58%
+
+### OS Statistics ###
+Windows:  32.91%
+bot:  27.57%
+Linux:  22.14%
+Mac OS X:  14.71%
+Unknown:  1.01%
+iPhone:  0.87%
+Darwin:  0.44%
+Android:  0.27%
+FreeBSD:  0.06%
+SunOS:  0.01%
+OpenBSD:  0.01%
+
+### Browser Statistics ###
+Chrome:  31.72%
+Firefox:  27.63%
+bot:  27.57%
+MSIE:  5.37%
+Safari:  4.93%
+Unknown:  1.42%
+Opera:  0.90%
+Trident:  0.45%
+BonEcho:  0.01%
+
